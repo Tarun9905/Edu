@@ -10,7 +10,7 @@ const ProfilePage = () => {
         <div  className='card'>
         <div className='profile-container'>
           <div className='profile'>
-            <img src="images/profile-Picture.jpg" alt="Profile" />
+            <img src="/images/profile-Picture.jpg" alt="Profile" />
             <FaCamera className='camera-icon'/>
           </div>
           <div className='profile-info'>
@@ -107,4 +107,4 @@ h2{
   
 `
 
-export default ProfilePage;
+export default ProfilePage
