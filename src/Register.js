@@ -61,7 +61,7 @@ const Register = () => {
             </div>
           </div>
 
-          <CreateButton type="submit" className="submit-btn"><NavLink to="/profile">Create Account</NavLink></CreateButton>
+          <CreateButton type="submit" className="submit-btn"><NavLink to="/profilepage">Create Account</NavLink></CreateButton>
         </form>
       </div>
     </Wrapper>

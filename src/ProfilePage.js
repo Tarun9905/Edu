@@ -2,7 +2,7 @@ import React from 'react'
 import { FaCamera } from "react-icons/fa";
 import styled from 'styled-components'
 
-const Profile = () => {
+const ProfilePage = () => {
   return (
     <Wrapper>
       <div className='profile-main'>
@@ -107,4 +107,4 @@ h2{
   
 `
 
-export default Profile
+export default ProfilePage;

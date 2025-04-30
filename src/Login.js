@@ -43,7 +43,7 @@ const Login = () => {
             />
           </div>
             <CreateButton type="submit" className="submit-btn" disabled={!isFormValid}>
-              <NavLink to="/profile">Create Account</NavLink>
+              <NavLink to="/profilepage">Create Account</NavLink>
             </CreateButton>
         </form>
       </div>
